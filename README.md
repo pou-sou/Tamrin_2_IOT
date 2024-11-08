@@ -28,6 +28,7 @@ After comparing all four models, XGBoost proved to be the best for predicting ho
 
 ### Files in this Repository:
 - [XGBoost forecasting.py](https://github.com/pou-sou/Tamrin_2_IOT/blob/main/src/XGBoost%20forecasting.py) used for XGBoost forecasting module
+!alt(./assets/XGBoost Prediction results.png)
 - [arima forecasting.py](https://github.com/pou-sou/Tamrin_2_IOT/blob/main/src/arima%20forecasting.py)used for XGBoost forecasting module
 - [linear and random forest forecasting](https://github.com/pou-sou/Tamrin_2_IOT/blob/main/src/linear%20and%20random%20forest%20forecasting.py)used for linear and random forest forecasting modules
 - [dataset cleaning.py](https://github.com/pou-sou/Tamrin_2_IOT/blob/main/src/dataset%20cleaning.py)the code used to clean the data
